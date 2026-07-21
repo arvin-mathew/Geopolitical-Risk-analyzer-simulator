@@ -1,4 +1,4 @@
-# Geopolitical Intelligence Architecture (GIA)
+# Geopolitical Intelligence Architecture
 
 A high-fidelity **Multi-Agent Systems (MAS)** framework designed to simulate and analyze complex geopolitical maneuvers and strategic trade dynamics. This system utilizes **Retrieval-Augmented Generation (RAG)** through ChromaDB to ground agent decision-making in a curated Knowledge Base of global trade facts.
 
